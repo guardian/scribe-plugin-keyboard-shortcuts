@@ -1,6 +1,6 @@
 {
   "name": "scribe-plugin-keyboard-shortcuts",
   "dependencies": {
-    "lodash-amd": "2.4.0"
+    "lodash-amd": "2.4.1"
   }
 }
