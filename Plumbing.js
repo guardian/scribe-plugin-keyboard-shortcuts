@@ -13,7 +13,7 @@ var write     = require('plumber-write');
 module.exports = function (pipelines) {
   var keyboardPluginRequireJs = requireJS({
     paths: {
-      'lodash-modern': '../bower_components/lodash-amd/modern'
+      'lodash-amd': '../bower_components/lodash-amd'
     }
   });
 

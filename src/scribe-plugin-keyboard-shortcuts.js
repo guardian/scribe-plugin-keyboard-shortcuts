@@ -1,5 +1,5 @@
 define([
-  'lodash-modern/objects/findKey'
+  'lodash-amd/modern/objects/findKey'
 ], function (
   findKey
 ) {
