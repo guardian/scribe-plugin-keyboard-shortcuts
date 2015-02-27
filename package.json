@@ -16,5 +16,10 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/guardian/scribe-plugin-keyboard-shortcuts.git"
-  }
+  },
+  "licenses": [
+    {
+      "type": "Apache2"
+    }
+  ]
 }
